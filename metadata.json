@@ -1,0 +1,6 @@
+{
+  "name": "ResearchMate – AI Research Paper Assistant",
+  "description": "Intelligent academic research assistant for college students featuring topic refinement, question generation, paper summarization, research gap analysis, literature review synthesis, and APA citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
