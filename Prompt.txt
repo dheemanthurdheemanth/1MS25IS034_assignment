@@ -1,0 +1,23 @@
+Improve my existing ResearchMate application.
+Keep all existing features working.
+Add these new features:
+Research Paper Summarizer:
+Allow users to paste research paper text and
+generate a summary.
+Research Questions Generator:
+Generate five research questions from a topic.
+Research Gap Finder:
+Identify research gaps from provided papers.
+Literature Review:
+Allow users to provide multiple paper summaries
+and organize them into a literature review.
+Citation Generator:
+Generate APA references using provided
+bibliographic information.
+Export Report:
+Allow users to download the generated
+research report as a text file.
+Use Gemini AI for all AI-powered features.
+Maintain the existing blue and white design.
+Make all buttons functional and mobile-friendly.
+Do not remove any existing functionality.
